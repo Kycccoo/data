@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   index.js
+#	modified:   models/url-model.js
+#
+# Changes not staged for commit:
+#	modified:   config/passport.js
+#	modified:   controllers/url-controllers.js
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   routes/url-route.js
+#	modified:   routes/users-route.js
+#
