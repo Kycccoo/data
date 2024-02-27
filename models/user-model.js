@@ -38,7 +38,7 @@ const schema = new Schema(
     },
     role: {
       type: Number,
-      default: UserRole.USER,
+      default: UserRole.ADMIN,
     },
   },
   {
